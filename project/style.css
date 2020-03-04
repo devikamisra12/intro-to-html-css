@@ -1,0 +1,14 @@
+button {
+    padding: 5px;
+    background: green;
+}
+h1 {
+    text-align: center;
+}
+
+.text {
+    padding: 10px;
+}
+a {
+    text-decoration: none;
+}

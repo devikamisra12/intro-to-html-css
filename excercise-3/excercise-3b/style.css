@@ -1,0 +1,17 @@
+.hello {
+    background-color: rgb(200, 179, 207);
+    
+}
+.specific {
+    background-color: plum;
+}
+.define {
+    background-color: rosybrown;
+}
+.one {
+    text-align: left;
+    font-size: 14px;
+}
+h1 {
+    text-align: center;
+}
